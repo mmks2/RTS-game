@@ -1,0 +1,2 @@
+hl server.hl
+pause
